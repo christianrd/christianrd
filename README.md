@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christianrd" alt="christianrd" /> </p>
 
-- 🌱 I’m currently learning **Docker, devops, and play saxofon**
+- 🌱 I’m currently learning **Docker, devops, and play saxophone**
 
 - 👯 I’m looking to collaborate on **.Net Open Source Projects**
 
